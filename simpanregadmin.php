@@ -2,14 +2,15 @@
 include 'config.php';
 
 //menyimpan data ke dalam variabel
-$idu   = $_POST['iduser'];
+$ida   = $_POST['idadmin'];
 $nama  = $_POST['nama'];
 $email = $_POST['email'];
 $pass  = $_POST['pass'];
-$nohp  = $_POST['nohp'];
+$jabatan  = $_POST['jabatan'];
+$kodejabatan = $_POST['kodejabatan']
 
 //query SQL untuk insert data
-$query = "INSERT_INTO tb_data_user SET idu='$idu' ,nama ='$nama' , email = '$email' , nohp ='$nohp'";
+$query = "INSERT_INTO tb_data_admin SET ida='$ida' ,nama ='$nama' , email = '$email' ,pass = '$pass' ,jabatan = '$jabatan' ,kode jabatan = '$kodejabatan'";
 
 mysqli_query($config, $query);
 
