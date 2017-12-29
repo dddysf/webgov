@@ -9,7 +9,7 @@ $pass  = $_POST['pass'];
 $nohp  = $_POST['nohp'];
 
 //query SQL untuk insert data
-$query = "INSERT_INTO tb_data_user SET idu='$idu' ,nama ='$nama' , email = '$email' ,pass = '$pass' ,nohp ='$nohp'";
+$query = "INSERT INTO tb_data_user SET idu='$idu' ,nama ='$nama' , email = '$email' ,pass = '$pass' ,nohp ='$nohp'";
 
 mysqli_query($config, $query);
 
