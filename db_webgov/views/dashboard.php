@@ -8,6 +8,8 @@
         </div>
 		<div class="row">
 			<div class="col-lg-12">
-				Selamat Datang di Portal Resmi Pemerintah Kota Bandung 
+				Selamat Datang di Portal Resmi Gov-Talk
+				Sebagai sarana penerimaan aspirasi dan pengaduan masyarakat, laporan warga yang masuk via 
+				Gov-Talk dikelola dan didisposisikan ke berbagai instansi terkait yang terhubung untuk direspons langsung.
 			</div>
 		</div>

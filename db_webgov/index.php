@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Home - Pemkot Bandung</title>
+    <title>Home Gov-Talk</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -28,7 +28,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="">Portal Resmi Pemerintah Kota Bandung</a>
+          <a class="navbar-brand" href="">Portal Resmi Gov-Talk</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
