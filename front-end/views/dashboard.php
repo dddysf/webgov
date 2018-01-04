@@ -12,4 +12,6 @@
 				Sebagai sarana penerimaan aspirasi dan pengaduan masyarakat, laporan warga yang masuk via 
 				Gov-Talk dikelola dan didisposisikan ke berbagai instansi terkait yang terhubung untuk direspons langsung.
 			</div>
+			  <button type="button" class="btn btn-primary">Login Admin</button>
+			  <button type="button" class="btn btn-primary">Login User</button>
 		</div>
