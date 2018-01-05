@@ -11,17 +11,17 @@
     <title>Gov-Talk - Aplikasi Pengaduan Masyarakat</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="dashboard/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="dashboard/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-    <link href="dashboard/css/agency.min.css" rel="stylesheet">
+    <link href="assets/css/agency.min.css" rel="stylesheet">
 
   </head>
 
@@ -107,18 +107,18 @@
    
 
   <!-- Bootstrap core JavaScript -->
-    <script src="dashboard/vendor/jquery/jquery.min.js"></script>
-    <script src="dashboard/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="dashboard/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
-    <script src="dashboard/js/jqBootstrapValidation.js"></script>
-    <script src="dashboard/js/contact_me.js"></script>
+    <script src="assets/js/jqBootstrapValidation.js"></script>
+    <script src="assets/js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="dashboard/js/agency.min.js"></script>
+    <script src="assets/js/agency.min.js"></script>
 
   </body>
 
